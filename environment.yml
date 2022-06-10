@@ -5,8 +5,8 @@ dependencies:
   - python
   - numpy
   - pip
-  - pip:
-    - statsmodels
-    - jupyterlab
-    - ipympl
-    - matplotlib
+#  - pip:
+#    - statsmodels
+#    - jupyterlab
+#    - ipympl
+#    - matplotlib
