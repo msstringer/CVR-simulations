@@ -1,4 +1,4 @@
-matplotlib
-statsmodels
-jupyterlab
-ipympl
+matplotlib>=3.4
+statsmodels>=0.12.0
+jupyterlab>=3.4.1
+ipympl>=0.9.0
